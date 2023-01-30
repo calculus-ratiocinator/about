@@ -6,6 +6,6 @@ all our thoughts as clearly and as exactly as arithmetic expresses
 numbers or geometry expresses lines, we could do in all matters insofar as
 they are subject to reasoning all that we can do in arithmetic and
 geometry. For all investigations which depend on reasoning would be
-carried out by transposing these characters and by a species of calculus."
-Gottfried Leibniz, Preface to the General Science, 1677
+carried out by transposing these characters and by a species of calculus."</br>
+<b>Gottfried Leibniz</b>, Preface to the General Science, 1677
 </pre>
